@@ -7,6 +7,8 @@
 
 Tématem semestrální práce jsou krystaly. Vaším úkolem je v programu OpenSCAD napsat modul, který umí generovat modely krystalů na základě vstupních dat (a modul, který generuje náhodné krystaly), vhodně připravit jeden z vám přidělených krystalů k tisku, vytisknout ho a provést případné dodatečné úpravy.
 
+WARNING: Uvítáme, pokud se na případné problémy s tímto zadáním zeptáte pomocí
+https://github.com/3DprintFIT/B182CW-Assignment/issues[issue] v tomto repozitáři.
 
 === Generátor krystalů
 
