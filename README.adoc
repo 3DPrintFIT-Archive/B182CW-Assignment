@@ -151,7 +151,8 @@ V případě absolutního selhání při tisku je možné tisk opakovat s novým
 
 == Odevzdání, hodnocení a termíny
 
-Odevzdává se na GitHub, TODO - odkaz
+Odevzdává se na GitHub: https://classroom.github.com/a/cEy68cMJ
+
 Veškeré slovní popisy uveďte přímo do README (či README.md apod.) v
 repozitáři. **Tentokrát nečekejte žádnou automatickou issue.**
 
